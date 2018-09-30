@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>主页</h2>
+	<h2>欢迎</h2>
 	<table border="1">
 		<c:forEach items="${list }" var="user">
 			<tr>
